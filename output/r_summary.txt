@@ -1,0 +1,11 @@
+Colorado March 2023 enrollment: 1711007 
+Colorado latest period: 202607 enrollment: 1190986 pct_change: -30.39 
+National March 2023 enrollment: 94363487 states: 51 
+National latest period: 202607 enrollment: 72946510 pct_change: -22.7 states: 51 
+Colorado rank by pct_change (1 = largest decline):
+# A tibble: 1 × 8
+  state state_name baseline_total_enrollment latest_reporting_period
+  <chr> <chr>                          <dbl>                   <dbl>
+1 CO    Colorado                     1711007                  202607
+# ℹ 4 more variables: latest_total_enrollment <dbl>, change_count <dbl>,
+#   pct_change <dbl>, rank_decline <int>

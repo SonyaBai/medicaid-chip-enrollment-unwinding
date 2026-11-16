@@ -1,0 +1,12 @@
+Dataset: State Medicaid and CHIP Applications, Eligibility Determinations, and Enrollment Data
+Publisher: Centers for Medicare & Medicaid Services (CMS)
+Portal: https://data.medicaid.gov/dataset/6165f45b-ca93-5bb5-9d06-db29c692a360/
+Dataset ID: 6165f45b-ca93-5bb5-9d06-db29c692a360
+CSV download used in this project:
+https://data.medicaid.gov/api/1/datastore/query/6165f45b-ca93-5bb5-9d06-db29c692a360/0/download?format=csv
+Retrieved: 2026-11-16 (America/Denver)
+Local file: state_medicaid_chip_applications_eligibility_enrollment.csv
+Rows in this extract: 11,220
+Columns: 44
+Coverage in this extract: 51 states (50 states and the District of Columbia); reporting periods 201309 and 201706 through 202607; Preliminary (P) and Updated (U) versions.
+Notes: CMS-64 / MBES expenditure files and Census population files were not joined in this project.
